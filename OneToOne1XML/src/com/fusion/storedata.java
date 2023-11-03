@@ -41,7 +41,7 @@ public class storedata {
     
     
      
-     System.out.println("Success");
+     System.out.println("YOU ARE SUCCSESSFULLY COMPLETE");
      
      
      
