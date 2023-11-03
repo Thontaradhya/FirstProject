@@ -18,13 +18,13 @@ public class storedata {
       
      Employee e1=new Employee();    
         
-     e1.setName("rakshith");
+     e1.setName("SHARATH");
       e1.setEmail("r@1234");
       
       Address ad=new Address();
       
       ad.setAddressLine1("sadashivanagara");    
-      ad.setCity("Banglore");    
+      ad.setCity("MANGLORE");    
       ad.setState("Karnataka");    
       ad.setCountry("India");    
       ad.setPincode(512998);
